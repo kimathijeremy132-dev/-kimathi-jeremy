@@ -1,5 +1,4 @@
 # -kimathi-jeremy
-# Jeremy Kimathi
 
 ### Developer | Cybersecurity Enthusiast | Builder
 
